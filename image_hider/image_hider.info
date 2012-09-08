@@ -1,0 +1,4 @@
+name = Image Hider
+description = Demonstrates how a module can use Drupal's node access system
+package = Access Example modules
+core = 7.x
